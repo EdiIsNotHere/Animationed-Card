@@ -1,4 +1,4 @@
-# 🎴 Card Stack with Dynamic Background & Blur Effect
+# 🎴 Card Stack with Dynamic Background!
 
 This is a simple interactive project using **HTML**, **CSS**, and **JavaScript** to display a stack of cards with hover effects.
 
@@ -7,19 +7,19 @@ This is a simple interactive project using **HTML**, **CSS**, and **JavaScript**
 - Four stacked cards with different colors.
 - When you hover over a card:
   - The background color of the page changes to match the card.
-  - A blur effect is applied to the background.
   - The card lifts up with a smooth animation and shadow.
 
 ## 📁 How to Use
 
 1. Download or clone this repository.
-2. Open the `index.html` file in your browser.
+2.Paste it in to the your ide project folder or paste it Aside your code.
 3. Hover over the cards to see the effects in action.
+4. just use!
 
 ## 💡 Technologies Used
 
 - HTML5
-- CSS3 (`backdrop-filter`, transitions, positioning)
+- CSS3 (transitions, positioning)
 - Vanilla JavaScript
 
 ## 🖼 Preview
