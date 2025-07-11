@@ -1,0 +1,15 @@
+# Treat all files as text and normalize line endings to LF
+* text=auto
+
+# Ensure consistent line endings for common web files
+*.html text
+*.css  text
+*.js   text
+
+# Set UTF-8 encoding
+* charset=utf-8
+
+# Linguist settings for language detection on GitHub
+*.html linguist-language=HTML
+*.css  linguist-language=CSS
+*.js   linguist-language=JavaScript
